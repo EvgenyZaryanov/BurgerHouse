@@ -1,0 +1,18 @@
+.order__form-input {
+  width: 344px;
+  height: 62px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background: rgb(33, 26, 22);
+  border: 1px solid rgb(226, 180, 56);
+  padding: 20px 10px;
+  color: rgb(117, 117, 117);
+  font-family: 'Gilroy-Semibold';
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0%;
+  text-align: left;
+  outline: none;
+}

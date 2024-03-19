@@ -1,0 +1,24 @@
+.products__cardItem-button {
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  justify-content: center;
+  align-items: center;
+  width: 182px;
+  height: 62px;
+  border-radius: 8px;
+  font-family: 'Gilroy-Semibold';
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  text-align: center;
+  background: linear-gradient(135deg, rgb(218, 128, 35) 0%, rgb(226, 180, 56) 100%);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.products__cardItem-button:hover {
+  opacity: 0.7;
+}

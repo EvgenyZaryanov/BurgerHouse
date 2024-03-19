@@ -1,0 +1,5 @@
+.products {
+  background-image: url(../../img/products__burgers_bg.png);
+  background-position: top center;
+  overflow: hidden;
+}

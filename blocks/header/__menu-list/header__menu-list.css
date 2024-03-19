@@ -1,0 +1,6 @@
+.header__menu-list {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  gap: 88px;
+}
