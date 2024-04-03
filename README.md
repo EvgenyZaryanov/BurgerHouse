@@ -1,4 +1,4 @@
-# Burgers
+# BurgerHouse App
 
 **[Deployment-link](https://burgerhousedeploy.netlify.app/)**  
 
