@@ -1,0 +1,10 @@
+.main__title {
+  font-family: 'Merriweather-Black';
+  font-weight: 900;
+  font-size: 120px;
+  line-height: 130%;
+  letter-spacing: 3.6px;
+  text-align: left;
+  text-transform: uppercase;
+  margin: 0px 0px 56px;
+}

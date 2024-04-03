@@ -1,0 +1,6 @@
+.main__image {
+  position: absolute;
+  top: -30px;
+  left: calc(100% - 991px);
+  z-index: 1;
+}

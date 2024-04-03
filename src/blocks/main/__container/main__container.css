@@ -1,0 +1,7 @@
+.main__container {
+  display: flex;
+  flex-direction: column;
+  width: 608px;
+  height: 648px;
+  z-index: 10;
+}
