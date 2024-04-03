@@ -27,17 +27,16 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "1mb",
+                  "maximumWarning": "4mb",
                   "maximumError": "1mb"
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "1mb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "150kb",
+                  "maximumError": "150kb"
                 }
               ],
-              "outputHashing": "all",
-              "baseHref": "/burgers/"
+              "outputHashing": "all"
             },
             "development": {
               "buildOptimizer": false,
